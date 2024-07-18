@@ -36,7 +36,7 @@ MNT-W
 
 ## Download
 
-[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/MNT-W/MNT Grabber/archive/refs/heads/main.zip)
+[![Download]([https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/MNT-W/MNT Grabber](https://github.com/MNT-W/MNT-Grabber.git))
 
 ## Features
 
