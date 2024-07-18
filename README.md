@@ -3,7 +3,7 @@
 </h1>
 <p align= "center">
    <kbd>
-   <img  src="https://raw.githubusercontent.com/MNT-W/MNT Grabber/main/.github/workflows/image.png">
+   <img  src="https://github.com/MNT-W/MNT-Grabber/workflows/image.png=">
    </kbd><br><br>
    <img src="https://img.shields.io/github/languages/top/MNT-W/MNT Grabber">
    <img src="https://img.shields.io/github/stars/MNT-W/MNT Grabber">
@@ -23,7 +23,6 @@
 
 Certified Dumper
 Certified Skid
- 
 MNT-W
 
 ## Table of Contents
