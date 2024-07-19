@@ -3,7 +3,7 @@
 </h1>
 <p align= "center">
    <kbd>
-   <img  src="https://raw.githubusercontent.com/MNT-W//MNT-Grabber/.github/workflows/image.png">
+   <img  src="https://raw.githubusercontent.com/MNT-W/MNT-Grabber/main/.github/workflows/image.png">
    </kbd><br><br>
    <img src="https://img.shields.io/github/languages/top/MNT-W/MNT-Grabber">
    <img src="https://img.shields.io/github/stars/MNT-W/MNT-Grabber">
@@ -19,6 +19,12 @@
    <img src="https://repobeats.axiom.co/api/embed/3183aa00d01f8636a5cbc17344c36168eff93aec.svg">
 </p>
 
+## Project Status: Coming to an End
+
+This Project is coming to an end
+
+Best Regards,
+MNT-W
 
 ## Table of Contents
 
@@ -85,11 +91,11 @@
 | **Melt Stub** | Deletes the stub after use. |
 | **Pump Stub** | Pumps the stub upto the provided size. |
 | **Fake Error** | Create custom (fake) error. |
-| **Block AV Sites** | Blocks AV related sites ([Unblock](https://github.com/MNT-W/MNT-Grabber/issues/117)). |
+| **Block AV Sites** | Blocks AV related sites ([Unblock](https://github.com/Blank-c/Blank-Grabber/issues/117)). |
 | **Discord Injection** | Puts backdoor on the Discord client for persistence. |
 | **UAC Bypass** | Tries to get administrator permissions without showing any prompt. |
 
-**Supports:** *Windows 8+ (Tested on Windows 10).*
+**Supports:** *Windows 8+ (Tested on Windows 10,11).*
 
 ## Requirements
 
@@ -102,7 +108,7 @@
 
 1. Download and install [Python 3](https://www.python.org/downloads/) (Make sure to enable the *Add to PATH* option.)
 2. Verify the installation by executing `python --version` in [CMD](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/?).
-3. [Download MNT-Grabber](#download).
+3. [Download Blank Grabber](#download).
 4. [Extract](https://www.pcworld.com/article/394871/how-to-unzip-files-in-windows-10.html#:~:text=Unzip%20all%20files%20in%20a%20ZIP%20file) the zip file.
 5. Navigate to the **MNT-Grabber** folder and double click *Builder.bat* file.
 6. Fill in the fields of the builder and press the <kbd>Build</kbd> button.
